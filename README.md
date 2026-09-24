@@ -408,5 +408,3 @@ cell1 (install) → cell2 (load) → cell3 (clean) → cell4 (split) → cell5 (
 13. Islam, M.A., et al. (2019). Electricity demand forecasting of Bangladesh using artificial neural network. _Journal of Electrical Engineering_, 47(1), 1–8.
 
 ---
-
-_This README was prepared as the final update document for the Machine Learning term paper project._
